@@ -21,4 +21,5 @@ client.on('message', msg => {Hello everyone, I'm yagoo
     }
 });
 
-client.login(token);
+client.login(ODY3NjMyNDMzNTczMzk2NDkw.YPj7qw.8jg3fJcN61MQlS-sIrfIdTlGgu8);
+$ node discord.js
